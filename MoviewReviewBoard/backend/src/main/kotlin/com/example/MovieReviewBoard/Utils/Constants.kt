@@ -8,7 +8,7 @@ class Constants {
 
         //Base API endpoint para personas
         const val URL_BASE_HELLOWORLD = "$URL_BASE/helloworld"
-        const val URL_BASE_TSF = "$URL_BASE/topicstackfeeders"
+        const val URL_BASE_MESSAGE = "$URL_BASE/message"
     }
 
 }

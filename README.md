@@ -5,7 +5,13 @@
 ## Prerrequisitos
 - [Node.js](https://nodejs.org/en/download/)
 - [Vue CLI](https://cli.vuejs.org/guide/installation.html)
-  - npm install -g @vue/cli
+  - ``npm install -g @vue/cli``
 
 ## Spring
 - [Initializer](https://start.spring.io/)
+
+## Vue 
+- `vue create frontend`
+
+## Frontend
+- `npm install --save auth0-js`

@@ -24,6 +24,7 @@ dependencies {
 	implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
 	runtimeOnly("com.h2database:h2")
 	testImplementation("org.springframework.boot:spring-boot-starter-test")
+	implementation("org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:2.1.3.RELEASE")
 }
 
 tasks.withType<KotlinCompile> {

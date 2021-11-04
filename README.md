@@ -15,3 +15,6 @@
 
 ## Frontend
 - `npm install --save auth0-js`
+
+## Kafka consumer
+- https://aseigneurin.github.io/2018/08/01/kafka-tutorial-2-simple-consumer-in-kotlin.html

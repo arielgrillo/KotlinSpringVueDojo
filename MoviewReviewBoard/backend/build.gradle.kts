@@ -25,7 +25,7 @@ dependencies {
 	runtimeOnly("com.h2database:h2")
 	testImplementation("org.springframework.boot:spring-boot-starter-test")
 	implementation("org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:2.1.3.RELEASE")
-	implementation("org.apache.kafka:kafka-clients:2.0.0")
+	implementation("org.apache.kafka:kafka-clients")
 }
 
 tasks.withType<KotlinCompile> {

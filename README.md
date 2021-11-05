@@ -5,7 +5,16 @@
 ## Prerrequisitos
 - [Node.js](https://nodejs.org/en/download/)
 - [Vue CLI](https://cli.vuejs.org/guide/installation.html)
-  - npm install -g @vue/cli
+  - ``npm install -g @vue/cli``
 
 ## Spring
 - [Initializer](https://start.spring.io/)
+
+## Vue 
+- `vue create frontend`
+
+## Frontend
+- `npm install --save auth0-js`
+
+## Kafka consumer
+- https://aseigneurin.github.io/2018/08/01/kafka-tutorial-2-simple-consumer-in-kotlin.html

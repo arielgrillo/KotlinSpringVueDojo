@@ -18,3 +18,6 @@
 
 ## Kafka consumer
 - https://aseigneurin.github.io/2018/08/01/kafka-tutorial-2-simple-consumer-in-kotlin.html
+
+### Problemas con la particiones
+- https://stackoverflow.com/questions/52500578/kafkaconsumer-consume-all-available-messages-once-and-exit
